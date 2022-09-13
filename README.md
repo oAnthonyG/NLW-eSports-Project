@@ -8,5 +8,3 @@ Usando TypeScript para a parte dos códigos JavaScript, o TS é uma tipagem para
 
 Uma das facilidades do TS é que ele além de avisar que um componente ou propriedade não encaixa no lugar ele também demonstra um erro de sintaxe e de acoplamento de código, porem não deixa de executar o código o fazendo funcionar.
 
-
-### Segunda Parte React Native
