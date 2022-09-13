@@ -1,3 +1,5 @@
+### Stage 1/6 
+
 ### Primeira aula / Parte
 
 Começando aprendendo o básico e às duas coisas mais importantes do React que são os componentes e as propriedades.
