@@ -19,3 +19,5 @@ Não teve muita coisa nova dentro do react, apenas o basico de componentização
 Logo de cara começa a parte sobre back end e como funciona os metodo GET POST, e banco de dados e suas relações com o back end.
 
 Uma parte muito interessante que terei que rever futuramente pois é muita informação, mas eu gostei da primeira parte explicando os fundamentos.
+
+### Projeto pausado por tempo indeterminado
